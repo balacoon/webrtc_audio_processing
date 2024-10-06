@@ -1,0 +1,5 @@
+.vs
+echo_cancellation_demo*
+out
+webrtc-audio-processing-*
+win_webrtc
